@@ -1,0 +1,13 @@
+v.0.1 ALPHA
+changelogs
+.added enemy variety
+
+.added a backround music
+
+.fixed collisions
+
+----------------------------------------
+v.0.1 ALPHA - patch
+
+.added exit button to instantly quit game (ESC)
+
